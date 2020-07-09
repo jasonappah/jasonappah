@@ -1,0 +1,27 @@
+- name: Vercel
+  logo: vercel
+  url: https://vercel.com
+  color: 000000
+  logoColor: ffffff
+  projects:
+    - https://github.com/jasonappah/router
+    - https://github.com/jasonappah/scrapbook-customizer
+
+- name: Python
+  logo: python
+  url: https://python.org
+  color: 3776ab
+  logoColor: ffffff
+  projects: 
+    - https://github.com/jasonappah/subsplashuploader
+    - https://github.com/jasonappah/stay-accountable
+      wip: true
+
+- name: Node.js
+  logo: node.js
+  url: https://nodejs.org
+  color: 339933
+  logoColor: ffffff
+  projects: 
+    - https://github.com/jasonappah/bibles-lt
+      wip: true
