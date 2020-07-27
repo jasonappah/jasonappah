@@ -1,7 +1,7 @@
 - name: Vercel
   logo: vercel
   url: https://vercel.com
-  color: 000000
+  color: 111111
   logoColor: ffffff
   projects:
     - https://github.com/jasonappah/router
@@ -23,5 +23,5 @@
   color: 339933
   logoColor: ffffff
   projects: 
-    - url: https://github.com/jasonappah/bibles-lt
+    - url: https://github.com/jasonappah/lt
       wip: true
