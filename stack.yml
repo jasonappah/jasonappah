@@ -2,7 +2,6 @@
   logo: vercel
   url: https://vercel.com
   color: 111111
-  logoColor: ffffff
   projects:
     - url: https://github.com/jasonappah/router
     - url: https://github.com/jasonappah/scrapbook-customizer
@@ -13,7 +12,6 @@
   logo: python
   url: https://python.org
   color: 3776ab
-  logoColor: ffffff
   projects: 
     - url: https://github.com/jasonappah/subsplashuploader
     - url: https://github.com/jasonappah/tf-virtual-bg
@@ -25,19 +23,8 @@
   logo: node.js
   url: https://nodejs.org
   color: 339933
-  logoColor: ffffff
   projects: 
     - url: https://github.com/jasonappah/lt
-      wip: true
-
-- name: FIRST
-  logo: first
-  color: 0066b3
-  url: https://bit.ly/grizzlybots
-  logoColor: ffffff
-  projects: 
-    - url: https://github.com/grizzlybots11918/ModernRoboticsCMCTest
-    - url: https://github.com/grizzlybots11918/pitkiosk
       wip: true
 
 - name: Firebase
@@ -49,4 +36,14 @@
     - url: https://github.com/jasonappah/ontime
       wip: true
     - url: https://github.com/jasonappah/store
+      wip: true
+
+- name: FIRST
+  logo: first
+  color: 0066b3
+  url: https://bit.ly/grizzlybots
+  logoColor: ffffff
+  projects: 
+    - url: https://github.com/grizzlybots11918/ModernRoboticsCMCTest
+    - url: https://github.com/grizzlybots11918/pitkiosk
       wip: true
