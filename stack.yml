@@ -30,30 +30,23 @@
     - url: https://github.com/jasonappah/lt
       wip: true
 
-- name: C#
-  logo: microsoft
-  color: 666666
-  url: https://www.codecademy.com/learn/learn-c-sharp
+- name: FIRST
+  logo: first
+  color: 0066b3
+  url: https://bit.ly/grizzlybots
   logoColor: ffffff
   projects: 
     - https://github.com/grizzlybots11918/ModernRoboticsCMCTest
+    - url: https://github.com/grizzlybots11918/pitkiosk
+      wip: true
     
  - name: Firebase
    logo: firebase
    url: https://firebase.google.com/
-   color: 666666
-   logoColor: ffca28
+   color: ffca28
+   logoColor: 000000
    projects: 
      - url: https://github.com/jasonappah/ontime
        wip: true
-     - url: https://github.com/jasonappah/store/
+     - url: https://github.com/jasonappah/store
        wip: true
-      
-  - name: HTML5
-    logo: html5
-    url: https://www.codecademy.com/learn/learn-html
-    color: e34f26
-    logoColor: ffffff
-    projects: 
-      - url: https://github.com/grizzlybots11918/pitkiosk
-        wip: true
