@@ -4,10 +4,10 @@
   color: 111111
   logoColor: ffffff
   projects:
-    - https://github.com/jasonappah/router
-    - https://github.com/jasonappah/scrapbook-customizer
-    - https://github.com/jasonappah/google-sheet-to-json
-    - https://github.com/jasonappah/api
+    - url: https://github.com/jasonappah/router
+    - url: https://github.com/jasonappah/scrapbook-customizer
+    - url: https://github.com/jasonappah/google-sheet-to-json
+    - url: https://github.com/jasonappah/api
 
 - name: Python
   logo: python
@@ -15,7 +15,7 @@
   color: 3776ab
   logoColor: ffffff
   projects: 
-    - https://github.com/jasonappah/subsplashuploader
+    - url: https://github.com/jasonappah/subsplashuploader
     - url: https://github.com/jasonappah/tf-virtual-bg
       wip: true
     - url: https://github.com/jasonappah/stay-accountable
@@ -36,17 +36,17 @@
   url: https://bit.ly/grizzlybots
   logoColor: ffffff
   projects: 
-    - https://github.com/grizzlybots11918/ModernRoboticsCMCTest
+    - url: https://github.com/grizzlybots11918/ModernRoboticsCMCTest
     - url: https://github.com/grizzlybots11918/pitkiosk
       wip: true
-    
- - name: Firebase
-   logo: firebase
-   url: https://firebase.google.com/
-   color: ffca28
-   logoColor: 000000
-   projects: 
-     - url: https://github.com/jasonappah/ontime
-       wip: true
-     - url: https://github.com/jasonappah/store
-       wip: true
+
+- name: Firebase
+  logo: firebase
+  url: https://firebase.google.com/
+  color: ffca28
+  logoColor: 000000
+  projects: 
+    - url: https://github.com/jasonappah/ontime
+      wip: true
+    - url: https://github.com/jasonappah/store
+      wip: true
