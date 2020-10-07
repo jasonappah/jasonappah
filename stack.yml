@@ -31,7 +31,7 @@
   logo: firebase
   url: https://firebase.google.com/
   color: ffca28
-  logoColor: 000000
+  logoColor: "000000"
   projects: 
     - url: https://github.com/jasonappah/ontime
       wip: true
@@ -42,7 +42,7 @@
   logo: first
   color: 0066b3
   url: https://bit.ly/grizzlybots
-  logoColor: ffffff
+  logoColor: "ffffff"
   projects: 
     - url: https://github.com/grizzlybots11918/ModernRoboticsCMCTest
     - url: https://github.com/grizzlybots11918/pitkiosk
