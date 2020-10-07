@@ -6,6 +6,7 @@
   projects:
     - https://github.com/jasonappah/router
     - https://github.com/jasonappah/scrapbook-customizer
+    - https://github.com/jasonappah/google-sheet-to-json
 
 - name: Python
   logo: python
@@ -14,6 +15,8 @@
   logoColor: ffffff
   projects: 
     - https://github.com/jasonappah/subsplashuploader
+    - url: https://github.com/jasonappah/tf-virtual-bg
+      wip: true
     - url: https://github.com/jasonappah/stay-accountable
       wip: true
 
