@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jason! I'm a high school junior from Leander, TX. I know a little bit of Python and JS, and I'm learning more about web development. Some other interests of mine are photography and music production. I'm also on my [school's FIRST robotics team](https://jasonaa.me/gb), and a member of our school's DECA and Black Student Union chapters. 
+I'm Jason! I'm a high school junior from Leander, TX. I know a some of Python and JS, and I'm learning more about web development. Some other interests of mine are photography and music production. I'm also on my [school's FIRST robotics team](https://jasonaa.me/gb), and a member of our school's DECA and Black Student Union chapters. 
 
 - 🌱 I’m currently learning React, Next.js, and Java.
 - ⚡ In the future I'd like to learn more about Rust and Flutter.
