@@ -26,6 +26,7 @@
   projects: 
     - url: https://github.com/jasonappah/lt
       wip: true
+    - url: https://github.com/jasonappah/ewelink-plug
 
 - name: Firebase
   logo: firebase
@@ -37,6 +38,8 @@
       wip: true
     - url: https://github.com/jasonappah/store
       wip: true
+    - url: https://github.com/jasonappah/shuttle
+      wip: true
 
 - name: FIRST
   logo: first
@@ -47,3 +50,14 @@
     - url: https://github.com/grizzlybots11918/ModernRoboticsCMCTest
     - url: https://github.com/grizzlybots11918/pitkiosk
       wip: true
+    - url: https://github.com/grizzlybots11918/ultimategoal
+      wip: true
+      
+- name: Next.js
+  logo: next.js
+  url: https://nextjs.org
+  color: 111111
+  projects:
+  - url: https://github.com/jasonappah/wordcounter
+  
+  
